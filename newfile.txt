@@ -1,1 +1,3 @@
-ECHO is on.
+test diff
+test diff
+test diff
